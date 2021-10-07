@@ -4,7 +4,7 @@ Utilizing the X Y Axis potentiometers within an analog joystick, I have created 
 
 
 
-Creating Things That Think\n
+Creating Things That Think
 Project 1
 Eric Martin
 September 14, 2021
@@ -12,40 +12,25 @@ IDEA 310L
 
 Description of Design Process
 Design requirements :
--
-Using at least two inputs
--
-Using at least two outputs
+- Using at least two inputs
+- Using at least two outputs
+
 Design Process :
--
-Want to implement joystick as an analog input
--
-Want to implement LED’s
--
-Want to implement sound
--
-Want the design to look nice and compact
-
-
+- Want to implement joystick as an analog input
+- Want to implement LED’s
+- Want to implement sound
+- Want the design to look nice and compact
 
 
 Songs:
-1.
-Final Fantasy Victory Fanfare
-2.
-Game of Thrones Theme
-3.
-Hedwig’s Theme Harry Potter
-4.
-Imperial March Star Wars
-5.
-Mario Theme Song
-6.
-Jigglypuff’s Song Pokemon
-7.
-Keyboard Cat Meme Song Youtube
-8.
-Greensleeves Skyrim
+1. Final Fantasy Victory Fanfare
+2. Game of Thrones Theme
+3. Hedwig’s Theme Harry Potter
+4. Imperial March Star Wars
+5. Mario Theme Song
+6. Jigglypuff’s Song Pokemon
+7. Keyboard Cat Meme Song Youtube
+8. Greensleeves Skyrim
 
 Issues
 • When activating some songs, the LED turns off.
