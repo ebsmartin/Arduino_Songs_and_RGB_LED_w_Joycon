@@ -10,10 +10,7 @@ Eric Martin
 September 14, 2021
 IDEA 310L
 
-
-
-Description of
-Design Process
+Description of Design Process
 Design requirements :
 -
 Using at least two inputs
@@ -28,6 +25,8 @@ Want to implement LED’s
 Want to implement sound
 -
 Want the design to look nice and compact
+
+
 
 
 Songs:
@@ -47,7 +46,6 @@ Jigglypuff’s Song Pokemon
 Keyboard Cat Meme Song Youtube
 8.
 Greensleeves Skyrim
-
 
 Issues
 • When activating some songs, the LED turns off.
