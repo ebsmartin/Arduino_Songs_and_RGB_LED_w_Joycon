@@ -34,14 +34,10 @@ Design Process :
 8. Greensleeves Skyrim
 
 **Issues :**
-• When activating some songs, the LED turns off.
-  • Unsure about why this is occurring as each melody has the same
-outline of code.
-• Program global variables use 79% of the dynamic memory on the heap
-which leaves less memory and could lead to stability issues.
-  • This is caused by the large amount of melody variables declared
-• Light transitions when using the joystick are sometimes jumpy rather
-than smooth.
-  • This may be due to the limitations of the joystick input or the
-translation from analog to digital input.
-• Box is flimsily and makes using the joystick harder than it needs to be
+- When activating some songs, the LED turns off.
+  - Usure about why this is occurring as each melody has the same outline of code.
+ - Program global variables use 79% of the dynamic memory on the heap which leaves less memory and could lead to stability issues.
+  - This is caused by the large amount of melody variables declared not using progmem()
+- Light transitions when using the joystick are sometimes jumpy rather than smooth.
+  - This may be due to the limitations of the joystick input or the translation from analog to digital input.
+- Box is flimsily and makes using the joystick harder than it needs to be
