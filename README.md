@@ -4,7 +4,7 @@ Utilizing the X Y Axis potentiometers within an analog joystick, I have created 
 
 
 
-Creating Things That Think
+Creating Things That Think\n
 Project 1
 Eric Martin
 September 14, 2021
