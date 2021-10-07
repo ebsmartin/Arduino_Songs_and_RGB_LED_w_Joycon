@@ -10,7 +10,8 @@ Eric Martin
 September 14, 2021
 IDEA 310L
 
-Description of Design Process
+**Description of Design Process**
+
 Design requirements :
 - Using at least two inputs
 - Using at least two outputs
@@ -22,7 +23,7 @@ Design Process :
 - Want the design to look nice and compact
 
 
-Songs:
+**Songs :**
 1. Final Fantasy Victory Fanfare
 2. Game of Thrones Theme
 3. Hedwig’s Theme Harry Potter
@@ -32,7 +33,7 @@ Songs:
 7. Keyboard Cat Meme Song Youtube
 8. Greensleeves Skyrim
 
-Issues
+**Issues :**
 • When activating some songs, the LED turns off.
   • Unsure about why this is occurring as each melody has the same
 outline of code.
